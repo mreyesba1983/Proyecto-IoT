@@ -1,0 +1,72 @@
+[
+  {
+    "name": "google",
+    "path": "/google",
+    "component": "/Volumes/Programas/Proyecto_IoT/app/pages/google.vue",
+    "chunkName": "pages/google",
+    "_name": "_70e198bd"
+  },
+  {
+    "name": "icons",
+    "path": "/icons",
+    "component": "/Volumes/Programas/Proyecto_IoT/app/pages/icons.vue",
+    "chunkName": "pages/icons",
+    "_name": "_41155ec6"
+  },
+  {
+    "name": "notifications",
+    "path": "/notifications",
+    "component": "/Volumes/Programas/Proyecto_IoT/app/pages/notifications.vue",
+    "chunkName": "pages/notifications",
+    "_name": "_2bc6b594"
+  },
+  {
+    "name": "regular",
+    "path": "/regular",
+    "component": "/Volumes/Programas/Proyecto_IoT/app/pages/regular.vue",
+    "chunkName": "pages/regular",
+    "_name": "_e1843570"
+  },
+  {
+    "name": "rtl",
+    "path": "/rtl",
+    "component": "/Volumes/Programas/Proyecto_IoT/app/pages/rtl.vue",
+    "chunkName": "pages/rtl",
+    "_name": "_384b1316"
+  },
+  {
+    "name": "starter-page",
+    "path": "/starter-page",
+    "component": "/Volumes/Programas/Proyecto_IoT/app/pages/starter-page.vue",
+    "chunkName": "pages/starter-page",
+    "_name": "_32def491"
+  },
+  {
+    "name": "typography",
+    "path": "/typography",
+    "component": "/Volumes/Programas/Proyecto_IoT/app/pages/typography.vue",
+    "chunkName": "pages/typography",
+    "_name": "_1a782eb3"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "/Volumes/Programas/Proyecto_IoT/app/pages/user.vue",
+    "chunkName": "pages/user",
+    "_name": "_68ff8f62"
+  },
+  {
+    "name": "GeneralViews-NotFoundPage",
+    "path": "/GeneralViews/NotFoundPage",
+    "component": "/Volumes/Programas/Proyecto_IoT/app/pages/GeneralViews/NotFoundPage.vue",
+    "chunkName": "pages/GeneralViews/NotFoundPage",
+    "_name": "_710183d3"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Volumes/Programas/Proyecto_IoT/app/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_62c8987e"
+  }
+]
